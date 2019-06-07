@@ -27,19 +27,18 @@
 		</dependency>
 	
 	</dependencies>
-	
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <name>Internal Snapshot Releases</name>	 
-		    <url>http://34.227.86.148:8081/repository/sample-app_snapshot/
+		    <name>admin</name>	 
+			 <url>http://34.227.86.148:8081/repository/sample-app_snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <name>Internal Releases</name>
-		    <url>http://34.227.86.148:8081/repository/sample-app_release/
-		</repository>e/</url>
+		    <name>admin</name>
+			<url>http://34.227.86.148:8081/repository/sample-app_release/</url>
+		</repository>
   	</distributionManagement>
 	
 	
