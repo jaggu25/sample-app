@@ -31,7 +31,7 @@
 		 <snapshotRepository>
 		    <id>nexus</id>
 		    <name>admin</name>	 
-			 <url>http://54.210.182.232:8081/repository/sample-app_snapshot/</url>
+			 <url>http://18.215.152.169:8081/repository/sampleapp-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
