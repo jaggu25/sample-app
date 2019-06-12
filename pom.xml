@@ -37,7 +37,7 @@
 		<repository>
 		    <id>nexus</id>
 		    <name>admin</name>
-		        <url>http://54.210.182.232:8081/repository/sample-app_release/</url>
+		        <url>http://18.215.152.169:8081/repository/sampleapp-release/</url>
 		</repository>
   	</distributionManagement>
 	
